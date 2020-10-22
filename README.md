@@ -1,1 +1,1 @@
-# CSN403
+# CSN403 Soft Computing
